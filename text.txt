@@ -1,1 +1,2 @@
 1. The first document was created
+2. I tried to make my first commit
